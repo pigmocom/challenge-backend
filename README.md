@@ -10,7 +10,7 @@ The plinko bet endpoint, where a user inputs the bet amount, risk and lines. And
 
 ## Requirements
 
-### Unit tests
+### Tests
 Use supertest to create integration tests for the endpoint.
 
 ### Endpoints
